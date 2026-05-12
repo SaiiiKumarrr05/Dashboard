@@ -82,7 +82,6 @@ Adapts across breakpoints:
 
 ---
 
-## 👤 Author
 
 **Saikumar** — B.Tech AI & ML, Woxsen University  
 GitHub: [@SaiiiKumarrr05](https://github.com/SaiiiKumarrr05)
